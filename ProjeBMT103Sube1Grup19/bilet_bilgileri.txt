@@ -1,0 +1,8 @@
+12/12/2222 00:00 Istanbul (Esenler Otogari) Ankara (ASTI) Metro 3 5 1 3 Seçilen Koltuk: 4
+
+12/12/2222 01:00 Izmir Antalya Metro 8 25 1 15 9 3 24 21 6 Seçilen Koltuk: 2
+
+12/12/2222 09:00 Van Samsun Truva 3 20 1 15 Seçilen Koltuk: 17
+
+12/12/2222 06:00 Ankara (ASTI) Izmir Pamukkale 2 12 7 Seçilen Koltuk: 13
+

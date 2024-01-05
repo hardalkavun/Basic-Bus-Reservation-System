@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1704399275 source:c:\users\axel\desktop\projebmt103sube1grup19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bilet_fonksiyon.h"
+
+1704399614 c:\users\axel\desktop\projebmt103sube1grup19\bilet_fonksiyon.h
+	<stdio.h>
+
+1704399706 source:c:\users\axel\desktop\projebmt103sube1grup19\bilet_fonksiyon.c
+	<stdio.h>
+	"bilet_fonksiyon.h"
+	<time.h>
+	<stdlib.h>
+
